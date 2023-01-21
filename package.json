@@ -2,6 +2,7 @@
   "name": "real-world-react-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://stephen-chukwurah.github.io/real-world-react-app-basic",
   "dependencies": {
     "@headlessui/react": "^1.7.7",
     "@heroicons/react": "^2.0.13",
